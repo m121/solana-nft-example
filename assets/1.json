@@ -1,0 +1,19 @@
+{
+    "name": "BULL_BEARD",
+    "symbol": ",",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DaQ9p1GViwwppwjwad7FSunQKKcYf2vPHr37n4YryXzj",
+          "share": 100
+        }
+      ]
+    }
+  }
